@@ -1,0 +1,9 @@
+Dataset: Global Daily Port Activity and Trade Estimates
+
+Source: Kaggle
+
+The original dataset is not included in this repository due to
+dataset size/licensing considerations.
+
+The dashboard was developed using port activity, trade,
+cargo-type and country-level data.
