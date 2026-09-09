@@ -136,7 +136,7 @@ Other measures were developed for:
 
 ## Overview
 
-![Overview Dashboard](Screenshot/overview.png)
+![Overview Dashboard](Screenshot/Overview.png)
 
 ## Port Performance
 
