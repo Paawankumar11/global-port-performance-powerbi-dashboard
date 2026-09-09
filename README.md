@@ -299,7 +299,7 @@ The focus was not only on visualization but also on **data preparation, modeling
 
 ## 👤 Author
 
-**Paawan Tyagi**
+**Paawan Kumar**
 
 Data Analytics | Power BI | SQL | Python
 
