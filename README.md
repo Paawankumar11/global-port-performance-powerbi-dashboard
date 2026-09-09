@@ -136,11 +136,11 @@ Other measures were developed for:
 
 ## Overview
 
-![Overview Dashboard](Screenshots/overview.png)
+![Overview Dashboard](Screenshot/overview.png)
 
 ## Port Performance
 
-![Port Performance Dashboard](Screenshots/Port Performance.png)
+![Port Performance Dashboard](Screenshot/Port-Performance.png)
 
 ---
 
